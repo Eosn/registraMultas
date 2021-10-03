@@ -1,5 +1,5 @@
 '''
-Éllen Oliveira Silva Neves (20202BSI0071)
+Éllen Neves (ellenosneves@gmail.com)
 Trabalho solicitado pelo professor da disciplina de Programação II, Hilário Seibel Junior
 '''
 
